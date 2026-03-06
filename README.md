@@ -36,10 +36,15 @@ QuantumTime
 Example Input
 
 4
+
 P1 0 5 
+
 P2 1 4
+
 P3 2 2
+
 P4 3 1
+
 2
 
 Output
@@ -49,15 +54,23 @@ The program prints the waiting time, turnaround time, and their averages.
 Example Output
 
 Waiting Time:
+
 P1 7
+
 P2 6
+
 P3 2
+
 P4 5
 
 Turnaround Time:
+
 P1 12
+
 P2 10
+
 P3 4
+
 P4 6
 
 Average Waiting Time: 5.00
