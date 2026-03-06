@@ -35,7 +35,7 @@ QuantumTime
 Example Input
 
 4
-P1 0 5
+P1 0 5 
 P2 1 4
 P3 2 2
 P4 3 1
