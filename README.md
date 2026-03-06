@@ -7,7 +7,7 @@ V K Parthip
 
 Vimal Jyothi Engineering College
 
-File
+File:
 
 "rr.c"
 
@@ -74,6 +74,7 @@ P3 4
 P4 6
 
 Average Waiting Time: 5.00
+
 Average Turnaround Time: 8.00
 
 Algorithm Used
@@ -87,11 +88,11 @@ Round Robin Scheduling
 5. If a process is not finished, it is placed back in the queue.
 6. Continue until all processes complete execution.
 
-How to Compile
+How to Compile:
 
 gcc rr.c -o rr
 
-How to Run
+How to Run:
 
 ./rr
 
